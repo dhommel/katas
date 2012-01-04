@@ -1,5 +1,3 @@
-import math
-
 def primesOf(i):
 	p = []
 	for d in range(2, i + 1):
